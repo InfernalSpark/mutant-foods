@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "###",
+      "#X#",
+      "###"
+    ],
+    "key": {
+      "#": {
+        "item": "nukesmod:unstable_uranium"
+      },
+      "X": {
+        "item": "minecraft:cooked_beef"
+      }
+    },
+    "result": {
+      "item": "nukesmod:mutant_steak"
+    }
+  }

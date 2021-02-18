@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+        "item": "nukesmod:uranium_item"
+    },
+    "result": "nukesmod:unstable_uranium",
+    "experience": 0.4,
+    "cookingtime": 100
+}
